@@ -42,10 +42,10 @@
         android:layout_width="241dp"
         android:layout_height="60dp"
         android:background="@null"
-        android:text="Knowledge is power\n    --Francis Bacon"
+        android:text="Knowledge is power\n\s\s--Francis Bacon"
         android:textColor="#FFFFFF"
-        tools:layout_editor_absoluteX="127dp"
-        tools:layout_editor_absoluteY="489dp" />
+        tools:layout_editor_absoluteX="143dp"
+        tools:layout_editor_absoluteY="491dp" />
 
     <Button
         android:id="@+id/Chinese"
