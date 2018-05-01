@@ -34,18 +34,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <TextView
-            android:id="@+id/textView2"
-            android:layout_width="163dp"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="40dp"
-            android:layout_marginEnd="26dp"
-            android:layout_marginRight="26dp"
-            android:text="Knowledge is Power\n--Francis Bacon"
-            android:textColor="#95FFFFFF"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent" />
-
         <Button
             android:id="@+id/Spanish"
             android:layout_width="wrap_content"
